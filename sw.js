@@ -1,4 +1,4 @@
-//Based on Traversy Media Tutorial
+//Based on Traversy Media Tutorial on YouTube:https://www.youtube.com/watch?v=ksXwaWHCW6k
 //Make sure sw are supported
 if(navigator.serviceWorker) {
     // console.log('Service Worker Supported');
