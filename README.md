@@ -1,3 +1,13 @@
+### <h2>How to run application</h2>
+* You can clone or download the repo to your local hard drive.
+  * Double click the index.html file to open in your browser.
+* Another way is to right click the index.html and save the link address.
+  * Use rawgit.com to get the URL to run on your browser.
+
+### <h2>Dependencies</h2>
+* The dbhelper.js file has a server/local host port variable that need to be change accordinly with your computer local host port. Example:If using the python server method below the port number is 8000.
+
+
 # Mobile Web Specialist Certification Course
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
